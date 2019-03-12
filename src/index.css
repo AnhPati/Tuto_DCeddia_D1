@@ -1,0 +1,30 @@
+#mainContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-right: 2rem;
+  padding-left: 2rem;
+  background-color: #aa3939;
+  padding-bottom: 3rem;
+  font-family: "Verdana", sans-serif;
+}
+
+.listStyles {
+  padding-inline-start: 0;
+  list-style: none;
+}
+
+.uBox-flex {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.strongStyles {
+  font-family: "Noto Sans", sans-serif;
+  color: #550000;
+}
+
+.paragraphStyles {
+  text-align: center;
+}
